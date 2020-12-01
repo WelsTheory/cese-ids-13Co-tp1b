@@ -25,12 +25,18 @@
 
 /*=====[Definitions of public global variables]==============================*/
 
+/**
+*@brief Datos del alumno Esteban Volentini
+*/
 static const struct alumno_s ESTEBAN_VOLENTINI = {
     .apellidos = "VOLENTINI",
     .nombres = "Esteban Daniel",
     .documento = "23.517.968",
 };
 
+/**
+*@brief Datos del alumno Williams Limonchi
+*/
 static const struct alumno_s WILLIAMS_LIMONCHI = {
     .apellidos = "LIMONCHI",
     .nombres = "Williams Ernesto",
